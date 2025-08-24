@@ -1,3 +1,4 @@
 # Coding
 
-* [**Two Pointers**](two-pointers)
+* [**Warm Up**](./warm-up/)
+* [**Two Pointers**](./two-pointers/)
